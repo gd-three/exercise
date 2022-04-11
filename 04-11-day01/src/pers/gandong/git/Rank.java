@@ -28,6 +28,11 @@ public class Rank {
      */
     private int rank;
 
+    /**
+    * @param
+    * @return int
+    * @throws
+    */
     public int getRank() {
         return rank;
     }
