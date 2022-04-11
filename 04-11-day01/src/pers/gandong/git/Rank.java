@@ -34,6 +34,7 @@ public class Rank {
     * @throws
     */
     public int getRank() {
+        System.out.println("bug修复");
         return rank;
     }
 }
