@@ -13,6 +13,9 @@ public class Activity {
      * @throws
      */
     public boolean draw(int times) {
+        for (int i = 0; i < times; i++) {
+            System.out.println(i);
+        }
         return true;
     }
 }
