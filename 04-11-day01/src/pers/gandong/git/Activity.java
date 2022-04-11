@@ -18,4 +18,14 @@ public class Activity {
         }
         return true;
     }
+
+    /**
+     * @param id 打开具体
+     * @return boolean
+     * @throws
+     */
+    public boolean openBox(int id) {
+        System.out.println();
+        return true;
+    }
 }
