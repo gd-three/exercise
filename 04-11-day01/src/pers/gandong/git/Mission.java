@@ -6,4 +6,8 @@ package pers.gandong.git;
  * @date: 2022-04-11 19:35
  */
 public class Mission {
+    /**
+     * 任务id
+     */
+    private int id;
 }
