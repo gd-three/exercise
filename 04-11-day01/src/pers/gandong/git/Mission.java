@@ -10,4 +10,8 @@ public class Mission {
      * 任务id
      */
     private int id;
+
+    public int getId() {
+        return id;
+    }
 }
